@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.c7965c75.css",
-    "main.js": "/frontend/static/js/main.af41baab.js",
-    "static/js/787.cda612ba.chunk.js": "/frontend/static/js/787.cda612ba.chunk.js",
-    "static/media/la.jpeg": "/frontend/static/media/la.fada2f0781c895f96e68.jpeg",
-    "static/media/sun.jpeg": "/frontend/static/media/sun.ebfacaa2c5fa68dd1335.jpeg",
-    "static/media/purple.jpeg": "/frontend/static/media/purple.dc8466f47cd379b84d39.jpeg",
-    "static/media/dino.png": "/frontend/static/media/dino.c311c76790318d7ccd31.png",
-    "index.html": "/frontend/index.html",
-    "main.c7965c75.css.map": "/frontend/static/css/main.c7965c75.css.map",
-    "main.af41baab.js.map": "/frontend/static/js/main.af41baab.js.map",
-    "787.cda612ba.chunk.js.map": "/frontend/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/HomanPortfolio/static/css/main.f9c14aa1.css",
+    "main.js": "/HomanPortfolio/static/js/main.9924a8d1.js",
+    "static/js/787.cda612ba.chunk.js": "/HomanPortfolio/static/js/787.cda612ba.chunk.js",
+    "static/media/la.jpeg": "/HomanPortfolio/static/media/la.fada2f0781c895f96e68.jpeg",
+    "static/media/sun.jpeg": "/HomanPortfolio/static/media/sun.ebfacaa2c5fa68dd1335.jpeg",
+    "static/media/purple.jpeg": "/HomanPortfolio/static/media/purple.dc8466f47cd379b84d39.jpeg",
+    "static/media/dino.png": "/HomanPortfolio/static/media/dino.c311c76790318d7ccd31.png",
+    "index.html": "/HomanPortfolio/index.html",
+    "main.f9c14aa1.css.map": "/HomanPortfolio/static/css/main.f9c14aa1.css.map",
+    "main.9924a8d1.js.map": "/HomanPortfolio/static/js/main.9924a8d1.js.map",
+    "787.cda612ba.chunk.js.map": "/HomanPortfolio/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7965c75.css",
-    "static/js/main.af41baab.js"
+    "static/css/main.f9c14aa1.css",
+    "static/js/main.9924a8d1.js"
   ]
 }
