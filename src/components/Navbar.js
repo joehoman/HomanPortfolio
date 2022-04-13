@@ -9,9 +9,9 @@ function Navbar(){
     <div class="topnav" id="myTopnav">
     <img class = 'logo' src={dino} alt ='dinosaur logo' />
     {/* <Link to="/aboutme" class = "right" id = "abouttab">About Me</Link> */}
-    <Link to="/softwaredevelopment" class = "right" id = "sdtab">Software Development</Link>
-    <Link to="/cyber"  id = "cybertab">Cybersecurity</Link>
-    <Link to="/"  id = "hometab">Home</Link>
+    <Link to="/HomanPortfolio/softwaredevelopment" class = "right" id = "sdtab">Software Development</Link>
+    <Link to="/HomanPortfolio/cyber"  id = "cybertab">Cybersecurity</Link>
+    <Link to="/HomanPortfolio"  id = "hometab">Home</Link>
 </div >
 
 }
