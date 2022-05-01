@@ -11,7 +11,7 @@ function Navbar(){
     {/* <Link to="/aboutme" class = "right" id = "abouttab">About Me</Link> */}
     <Link to="/HomanPortfolio/softwaredevelopment" class = "right" id = "sdtab">Software Development</Link>
     <Link to="/HomanPortfolio/cyber"  id = "cybertab">Cybersecurity</Link>
-    <Link to="/HomanPortfolio"  id = "hometab">Home</Link>
+    <Link to="/"  id = "hometab">Home</Link>
 </div >
 
 }
