@@ -34,7 +34,7 @@ function Cyber(){
                     </li>
                     <li class = 'homeblurb'>
                     Certifications listed in &nbsp;
-                    <a class = 'cylink' href="https://www.airforce.com/careers/detail/cyber-systems-operations">
+                    <a class = 'cylink' href="https://docs.google.com/document/d/1uun3TXMiQBXLl4LPsOpFpGRrdTe7aq6V-4B1ZXqOvUM/edit?usp=sharing">
                         resume
                             </a>
                     </li>

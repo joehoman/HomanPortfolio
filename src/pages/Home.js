@@ -13,19 +13,19 @@ function Home(){
                     <li class = 'homeblurb'>
                         I joined the Air Force in 2019 as a &nbsp;
                         <a class = 'syslink' href="https://www.airforce.com/careers/detail/cyber-systems-operations">
-                        Systems Administrator.
+                        System Administrator.
                         </a>
                     </li>
                     <li class = 'homeblurb'>
-                        From here, I transitioned into a role as a &nbsp;
-                        <a class = 'cylink' href="https://www.airforce.com/careers/detail/cyber-systems-operations">
+                         I transitioned into the Space Force as a  &nbsp;
+                        <a class = 'cylink' href="https://joehoman.github.io/HomanPortfolio/#/HomanPortfolio/cyber">
                         Cybersecurity Analyst
                             </a>
-                            &nbsp;in the Space Force.
+                            &nbsp; in 2021.
                     </li>
                     <li class = 'homeblurb'>
                     In 2022, I was accepted into a 6 month &nbsp;
-                    <a class = 'sdlink' href="https://www.airforce.com/careers/detail/cyber-systems-operations">
+                    <a class = 'sdlink' href="https://joehoman.github.io/HomanPortfolio/#/HomanPortfolio/softwaredevelopment">
                         Software Development
                             </a>
                     &nbsp;program.
